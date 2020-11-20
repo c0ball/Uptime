@@ -1,18 +1,26 @@
 [
   {
-    "name": "Seven-IG",
+    "name": "Website",
     "url": "seven-ig.de",
-    "slug": "seven-ig",
+    "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 2071
+    "time": 1611
   },
   {
-    "name": "Secret Site",
+    "name": "Forum",
+    "url": "$FORUM",
+    "slug": "forum",
+    "status": "down",
+    "uptime": "18.29",
+    "time": 0
+  },
+  {
+    "name": "Cobal",
     "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "slug": "cobal",
     "status": "up",
     "uptime": "100.00",
-    "time": 257
+    "time": 664
   }
 ]
