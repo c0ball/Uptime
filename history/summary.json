@@ -1,18 +1,18 @@
 [
   {
     "name": "Website",
-    "url": "seven-ig.de",
+    "url": "$WEBSITE",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1611
+    "status": "down",
+    "uptime": "84.00",
+    "time": 805
   },
   {
     "name": "Forum",
     "url": "$FORUM",
     "slug": "forum",
     "status": "down",
-    "uptime": "10.14",
+    "uptime": "2.02",
     "time": 0
   },
   {
@@ -21,6 +21,6 @@
     "slug": "cobal",
     "status": "up",
     "uptime": "100.00",
-    "time": 664
+    "time": 625
   }
 ]
