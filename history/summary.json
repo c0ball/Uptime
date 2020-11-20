@@ -4,7 +4,7 @@
     "url": "$WEBSITE",
     "slug": "website",
     "status": "down",
-    "uptime": "84.00",
+    "uptime": "72.27",
     "time": 805
   },
   {
@@ -12,7 +12,7 @@
     "url": "$FORUM",
     "slug": "forum",
     "status": "down",
-    "uptime": "2.02",
+    "uptime": "1.26",
     "time": 0
   },
   {
