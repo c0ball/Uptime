@@ -11,7 +11,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
-    url: https://thissitedoesnotexist.com
+    url: seven-ig.de
   - name: Secret Site
     url: $SECRET_SITE
 
