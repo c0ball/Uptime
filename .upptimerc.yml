@@ -5,7 +5,7 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Website
-    url: seven-ig.de
+    url: $WEBSITE
   - name: Forum
     url: $FORUM
   - name: Cobal
