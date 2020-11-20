@@ -4,9 +4,11 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Seven-IG
+  - name: Website
     url: seven-ig.de
-  - name: Secret Site
+  - name: Forum
+    url: $FORUM
+  - name: Cobal
     url: $SECRET_SITE
 
 status-website:
