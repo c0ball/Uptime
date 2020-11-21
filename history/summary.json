@@ -1,19 +1,11 @@
 [
   {
     "name": "Website",
-    "url": "$WEBSITE",
-    "slug": "website",
-    "status": "down",
-    "uptime": "0.08",
-    "time": 322
-  },
-  {
-    "name": "Website URL",
     "url": "https://www.seven-ig.de",
-    "slug": "website-url",
+    "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 1120
+    "time": 600
   },
   {
     "name": "Forum",
@@ -21,7 +13,7 @@
     "slug": "forum",
     "status": "up",
     "uptime": "100.00",
-    "time": 287
+    "time": 309
   },
   {
     "name": "Cobal",
@@ -29,6 +21,6 @@
     "slug": "cobal",
     "status": "up",
     "uptime": "100.00",
-    "time": 1138
+    "time": 1097
   }
 ]
