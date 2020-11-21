@@ -1,7 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
-
+owner: c0ball
+repo: Uptime
 # Add your sites here
 sites:
   - name: Website 
