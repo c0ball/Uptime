@@ -7,7 +7,7 @@ sites:
   - name: Website
     url: $WEBSITE
   - name: Forum
-    url: $FORUM
+    url: https://www.seven-ig.de/phpBB3/
   - name: Cobal
     url: $SECRET_SITE
 
