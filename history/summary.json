@@ -4,15 +4,15 @@
     "url": "$WEBSITE",
     "slug": "website",
     "status": "down",
-    "uptime": "72.27",
-    "time": 805
+    "uptime": "0.22",
+    "time": 537
   },
   {
     "name": "Forum",
     "url": "$FORUM",
     "slug": "forum",
     "status": "down",
-    "uptime": "1.26",
+    "uptime": "0.00",
     "time": 0
   },
   {
@@ -21,6 +21,6 @@
     "slug": "cobal",
     "status": "up",
     "uptime": "100.00",
-    "time": 625
+    "time": 745
   }
 ]
