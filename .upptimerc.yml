@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: Website
     url: $WEBSITE
+  - name: Website URL
+    url: https://www.seven-ig.de
   - name: Forum
     url: https://www.seven-ig.de/phpBB3/
   - name: Cobal
