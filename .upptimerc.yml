@@ -4,9 +4,7 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Website
-    url: $WEBSITE
-  - name: Website URL
+  - name: Website 
     url: https://www.seven-ig.de
   - name: Forum
     url: https://www.seven-ig.de/phpBB3/
