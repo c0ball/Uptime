@@ -5,7 +5,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 600
+    "time": 748
   },
   {
     "name": "Forum",
@@ -13,7 +13,7 @@
     "slug": "forum",
     "status": "up",
     "uptime": "100.00",
-    "time": 309
+    "time": 293
   },
   {
     "name": "Cobal",
@@ -21,6 +21,6 @@
     "slug": "cobal",
     "status": "up",
     "uptime": "100.00",
-    "time": 1097
+    "time": 1079
   }
 ]
