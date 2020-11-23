@@ -4,23 +4,23 @@
     "url": "https://www.seven-ig.de",
     "slug": "website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 898
+    "uptime": "70.18%",
+    "time": 965
   },
   {
     "name": "Forum",
     "url": "https://www.seven-ig.de/phpBB3/",
     "slug": "forum",
     "status": "up",
-    "uptime": "100.00",
-    "time": 294
+    "uptime": "70.30%",
+    "time": 292
   },
   {
     "name": "Cobal",
     "url": "$SECRET_SITE",
     "slug": "cobal",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1108
+    "uptime": "100.00%",
+    "time": 1069
   }
 ]
