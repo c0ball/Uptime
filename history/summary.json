@@ -4,16 +4,32 @@
     "url": "https://www.seven-ig.de",
     "slug": "website",
     "status": "up",
-    "uptime": "94.03%",
-    "time": 1181
+    "uptime": "94.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.52%",
+    "uptimeYear": "94.52%",
+    "time": 1542,
+    "timeDay": 1869,
+    "timeWeek": 1485,
+    "timeMonth": 1542,
+    "timeYear": 1542
   },
   {
     "name": "Forum",
     "url": "https://www.seven-ig.de/phpBB3/",
     "slug": "forum",
     "status": "up",
-    "uptime": "94.06%",
-    "time": 244
+    "uptime": "94.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.54%",
+    "uptimeYear": "94.54%",
+    "time": 295,
+    "timeDay": 323,
+    "timeWeek": 210,
+    "timeMonth": 295,
+    "timeYear": 295
   },
   {
     "name": "Cobal",
@@ -21,6 +37,14 @@
     "slug": "cobal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 967
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1005,
+    "timeDay": 1671,
+    "timeWeek": 1004,
+    "timeMonth": 1005,
+    "timeYear": 1005
   }
 ]
